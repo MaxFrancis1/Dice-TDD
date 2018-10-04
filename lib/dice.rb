@@ -1,7 +1,7 @@
 class Dice
-
-def roll
-  puts 5
-end
-
+  
+  def roll
+    rand(7)
+  end
+  return roll
 end
